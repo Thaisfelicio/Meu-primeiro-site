@@ -1,4 +1,6 @@
-body
+body {
+    background: darkseagreen;
+}
 
 #title , .subtitle , .post_title {
     color: blue;
@@ -7,3 +9,12 @@ body
     font-size: 16 px;
     font-style: italic;
 }
+
+#title , .subtitle , .post_title {
+    color: blue;
+}
+.post_title {
+    font-size: 16 px;
+    font-style: italic;
+}
+
